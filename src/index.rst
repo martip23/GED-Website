@@ -12,7 +12,7 @@ Contenidos:
     :maxdepth: 2
     
     bienvenidos    
-    Grupo Facebook <http://www.facebook.com>
+    Grupo Facebook <http://www.facebook.com target="_blank">
     aboutGED
     sobreProfs
     contactInfo
