@@ -58,7 +58,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'GED-Website'
+project = u'Pagina GED'
 copyright = u'2016, Patrick Martinez'
 author = u'Patrick Martinez'
 
@@ -145,7 +145,7 @@ todo_include_todos = False
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
-html_short_title = 'Pagina GED'
+html_short_title = u'Pagina GED'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
