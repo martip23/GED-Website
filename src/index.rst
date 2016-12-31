@@ -10,10 +10,7 @@ Bienvenidos a la pagina web del programa GED en Espanol! Para usar esta pagina, 
     :maxdepth: 2
     
     sobreClase
-    Anuncios
+    librosClase
     Grupo Facebook <https://www.facebook.com/groups/981323965291780/>
-    aboutGED
     sobreProfs
-    contactInfo
-    events
-    Materias
+
