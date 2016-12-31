@@ -1,5 +1,6 @@
 Web Portal por SWKEY GED en Espanol!
 ======================================
+.. image:: images/graduation.jpg
 
 Bienvenidos!
 *********************
@@ -11,6 +12,5 @@ Bienvenidos a la pagina web del programa GED en Espanol! Para usar esta pagina, 
     
     sobreClase
     librosClase
-    Grupo Facebook <https://www.facebook.com/groups/981323965291780/>
     sobreProfs
-
+    Grupo Facebook <https://www.facebook.com/groups/981323965291780/>
