@@ -10,11 +10,11 @@ Por cada materia hay dos libros recomendados que se llaman asi:
 * El Libro del Estudiante
 * El Cuaderno de Ejercicios
 
-Quales son la diferencias?
+Cuales son la diferencias?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. El **Libro del Estudiante** se usara dentro de clase para estudiar. Nosotros vamos a proveer este libro por ustedes, no es necessario comprarlo pero es alto recomendido.
-#. El **Cuaderno de Ejercicios** se usara para tarea asignada y para hacer trabajo en casa. Este sera necessario comprar para poder hacer tarea en casa. **Este libro no se proporcionara en clase**. Pero, si no hacen tarea en clase, este libro sera inutil.
+#. El **Libro del Estudiante** se usara dentro de clase para estudiar. Nosotros vamos a proveer este libro por ustedes, no es necesario comprarlo pero es alto recomendido.
+#. El **Cuaderno de Ejercicios** se usara para tarea asignada y para hacer trabajo en casa. Este sera necesario comprar para poder hacer tarea en casa. **Este libro no se proporcionara en clase**. Pero, si no hacen tarea en clase, este libro sera inutil.
 
 Como consegir los libros?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
