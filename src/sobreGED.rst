@@ -36,7 +36,7 @@ Hay varios lugares donde se pueden hacer y no tendra sentido listarlos aqui porq
 Para esta informacion tendran que visitar la pagina www.ged.com y registrarse. Cuando esta listo para tomar un examen, ahi les daran una lista de locaciones y dependiendo en su selectión, las horas disponibles. *En general*, las locaciones de Austin Community College son de Lunes a Viernes en horas laborales. El TacTix of Austin en Cameron es un lugar que esta abierto los *Sabados* que puede funcionar mejor para ciertos estudiantes.
 
 ¿Cómo puedo prepararme para el examén?
-*************************************
+***************************************
 Prepárese por materia a tiempo y tome el examen cuando esté listo. No es recomendado estudiar las cuatro, y examinar las cuatro al mismo tiempo.
 
 ¿Cómo es el examen de lectura y redaccion (Las artes de leguaje)?
