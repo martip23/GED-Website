@@ -8,10 +8,10 @@ Las clases GED exploran estrategias y practicas necesarias para pasar los 4 exam
 
 Objectivos
 ****************
-* Alentar un modo de leer y analizar para apoyar la comprension de lectura
-* Fortalecer las estrategias, habilidades y motivacion para tener exito en los examenes GED
+* Alentar un modo de leer y analizar para apoyar la comprensión de lectura
+* Fortalecer las estrategias, habilidades y motivación para tener éxito en los examenes GED
 * Explorar opciones de carrera o academia que tendran despues de completar su GED
-* Desarollar un reconocimiento del valor de obras te texto, matematicas y ciencias de la vida real.
+* Desarollar un reconocimiento del valor de obras de texto, matematicas y ciencias de la vida real.
 * Reconocer la importancia de las ciencias y estudiar lo necessario para tener exito en su examen GED.
 * Hacer conexiones sobre las temas academicas y la vida real para fortalecer aprendizaje fuera de clase.
 * Entender como leer y analizar textos de las historias.
@@ -19,7 +19,7 @@ Objectivos
 Orden de materias y tiempo propuesto
 ********************************************
 
-#. **Lectura y redaccion:**  Enero '17 a Abril '17 - **4 meses**
-#. **Estudios Sociales:**  Mayo '17 a Julio '17 - **2.5 meses**
-#. **Razonamiento Matematico:**  Julio '17 a Deciembre '17 - **5 meses**
-#. **Ciencias Naturales:**  Deciembre '17 a Febrero '18 - **2.5 meses**
+#. **Lectura y redaccion:**  9 de Enero '17 al 27 de Abril '17 - **4 meses**
+#. **Estudios Sociales:**  1 de Mayo '17 al 13 de Julio '17 - **2.5 meses**
+#. **Razonamiento Matematico:**  24 de Julio '17 al 14 de Diciembre '17 - **5 meses**
+#. **Ciencias Naturales:**  18 de Diciembre '17 al 28 de Febrero '18 - **2.5 meses**
