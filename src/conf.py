@@ -67,7 +67,7 @@ author = u'Patrick Martinez'
 # built documents.
 #
 # The short X.Y version.
-version = u'1.0'
+version = u'6002 Jain Ln\n Austin, TX 78721 Adult Services Coordinator: Michelle Holubetz \n 512-583-2583 \n'
 # The full version, including alpha/beta/rc tags.
 release = u'Release 1.0'
 
@@ -150,7 +150,7 @@ html_short_title = u'Pagina GED'
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 #
-html_logo = 'images/cornerImage.png'
+html_logo = 'images/cornerimage.jpg'
 
 # The name of an image file (relative to this directory) to use as a favicon of
 # the docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
